@@ -1,6 +1,6 @@
-# 1. Programação Orientada a Objetos em Java: construindo um sistema de gestão de funcionários.
+# Programação Orientada a Objetos em Java: construindo um sistema de gestão de funcionários.
 
-2. Contextualização
+1. Contextualização
 Uma empresa de tecnologia deseja desenvolver um sistema para cadastrar, consultar e gerenciar os
 dados de seus funcionários. A organização possui diferentes categorias de profissionais, como
 funcionários administrativos e desenvolvedores de software, que compartilham algumas características,
@@ -13,7 +13,7 @@ construtores, herança, polimorfismo, sobrescrita e sobrecarga de métodos. A pr
 como a herança facilita o reaproveitamento de código e como o polimorfismo possibilita que diferentes 
 tipos de funcionários apresentem comportamentos específicos por meio de uma estrutura comum.
 
-3. Situação-problema
+2. Situação-problema
 A empresa TechSolutions realiza o gerenciamento de seus funcionários por meio de planilhas eletrônicas.
 Com o crescimento da organização, tornou-se necessário desenvolver um sistema que facilite o armazenamento
 e a consulta das informações dos colaboradores.
