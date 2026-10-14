@@ -1,4 +1,4 @@
-#1. Programação Orientada a Objetos em Java: construindo um sistema de gestão de funcionários.
+# 1. Programação Orientada a Objetos em Java: construindo um sistema de gestão de funcionários.
 
 2. Contextualização
 Uma empresa de tecnologia deseja desenvolver um sistema para cadastrar, consultar e gerenciar os
